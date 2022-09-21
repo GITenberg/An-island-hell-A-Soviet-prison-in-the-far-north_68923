@@ -1,0 +1,30 @@
+_repo: An-island-hell-A-Soviet-prison-in-the-far-north_68923
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lyon, F. H.
+    gutenberg_agent_id: '55015'
+    url: http://www.gutenberg.org/2009/agents/55015
+creator:
+  author:
+    agent_name: Malsagoff, S. A.
+    gutenberg_agent_id: '55014'
+    url: http://www.gutenberg.org/2009/agents/55014
+description: ''
+gutenberg_issued: '2022-09-06'
+identifiers:
+  gutenberg: '68923'
+language: en
+pgterms:marc904: https://archive.org/details/1926AnIslandHellMalsagoff
+pgterms:marc905: 20220901182714malsagoff
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Scans generously provided by hugesummers at archive.org
+publication_note: United Kingdom :A. M. Philpot Ltd,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'An island hell: A Soviet prison in the far north'
+url: http://www.gutenberg.org/ebooks/68923
