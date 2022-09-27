@@ -5,12 +5,17 @@ contributor:
     agent_name: Lyon, F. H.
     gutenberg_agent_id: '55015'
     url: http://www.gutenberg.org/2009/agents/55015
+covers:
+- cover_type: archival
+  image_path: 68923-h/images/cover.png
 creator:
   author:
     agent_name: Malsagoff, S. A.
     gutenberg_agent_id: '55014'
     url: http://www.gutenberg.org/2009/agents/55014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68923#An-island-hell-A-Soviet-prison-in-the-far-north
 gutenberg_issued: '2022-09-06'
 identifiers:
   gutenberg: '68923'
